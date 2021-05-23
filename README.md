@@ -1,7 +1,6 @@
-### Hi there 👋
 ### Hi there 👋, my name is Saheen
 #### I am a Freelance Full Stack developer
-![I am a Freelance Full Stack developer](https://i.imgur.com/XobW2Fo.png)
+![I am a Freelance Full Stack developer](https://i.imgur.com/2eYdf37.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -20,7 +19,7 @@ Skills:  REACT / JS / PYTHON/ PHP / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellord)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shellord&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shellord&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shellord)  
 
