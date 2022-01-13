@@ -1,6 +1,9 @@
+<div align="center">
+ 
 ### Hi there 👋, my name is Saheen
 #### I am a Freelance Full Stack developer
-
+ </div>
+ 
 ## 🧑‍💻 About me
 - 🔭 I’m currently working on a social media app
 - 🌱 I’m currently learning Flutter 
