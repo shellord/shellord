@@ -6,7 +6,7 @@
  
 ## 🧑‍💻 About me
 - 🔭 I’m currently working on a social media app
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning best developer practices 
 - 📫 How to reach me: saheenshoukath@gmail.com 
 
 
