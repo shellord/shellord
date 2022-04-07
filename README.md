@@ -6,7 +6,7 @@
  
 ## 🧑‍💻 About me
 - 🔭 I’m currently working on a social media app
-- 🌱 I’m currently learning best developer practices 
+- 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: saheenshoukath@gmail.com 
 
 
