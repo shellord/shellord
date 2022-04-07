@@ -1,7 +1,7 @@
 <div align="center">
  
 ### Hi there 👋, my name is Saheen
-#### I am a Freelance Full Stack developer
+#### I am a Full Stack developer
  </div>
  
 ## 🧑‍💻 About me
