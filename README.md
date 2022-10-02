@@ -5,7 +5,7 @@
  </div>
  
 ## 🧑‍💻 About me
-- 🔭 I’m currently working on a social media app
+- 🔭 I’m currently working on a social media app [watashi.app](https://watashi.app)
 - 🌱 I’m currently learning GraphQL
 - 📫 How to reach me: saheenshoukath@gmail.com 
 
